@@ -115,7 +115,7 @@ ProviderName = `"Microsoft RSA SChannel Cryptographic Provider`"
 ProviderType =  12
 HashAlgorithm = sha256
 ;Variables
-Subject = `"CN={{CN}},OU={{OU}},O={{O}},L={{L}},S={{S}},C={{C}}`"
+Subject = `"CN={{CN}};OU={{OU}};O={{O}};L={{L}};S={{S}};C={{C}}`"
 [Extensions]
 {{SAN}}
 
